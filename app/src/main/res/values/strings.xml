@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">playground</string>
+    <string name="wheat_bread">Wheat Bread</string>
+    <string name="white_bread">White Bread</string>
+    <string name="italian_herb">Italian Herb &amp; Cheese</string>
+    <string name="malted_rye">Malted Rye</string>
+    <string name="plain_wrap">Plain Wrap</string>
+    <string name="gluten_free">Gluten Free Wrap</string>
+    <string name="multigrain">Multigrain Wrap</string>
+</resources>
